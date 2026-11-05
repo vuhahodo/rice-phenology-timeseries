@@ -1,0 +1,12 @@
+RF {'max_depth': 15, 'min_samples_leaf': 1} val macroF1 0.7658 (8s)
+RF {'max_depth': 15, 'min_samples_leaf': 3} val macroF1 0.7608 (7s)
+RF {'max_depth': 25, 'min_samples_leaf': 1} val macroF1 0.7674 (9s)
+RF {'max_depth': 25, 'min_samples_leaf': 3} val macroF1 0.7607 (7s)
+RF {'max_depth': None, 'min_samples_leaf': 1} val macroF1 0.7674 (9s)
+RF {'max_depth': None, 'min_samples_leaf': 3} val macroF1 0.7607 (8s)
+selected {'max_depth': 25, 'min_samples_leaf': 1}
+B0_calendar                  macroF1 0.642  acc 0.675 | MAE d  SOS 13.4 POS 3.9 EOS 13.3 | retro 0.00
+B1_threshold_rule            macroF1 0.752  acc 0.758 | MAE d  SOS 0.3 POS 0.0 EOS 0.0 | retro 0.00
+B2_random_forest             macroF1 0.767  acc 0.798 | MAE d  SOS 7.8 POS 2.5 EOS 7.3 | retro 0.09
+B2_random_forest+viterbi     macroF1 0.767  acc 0.799 | MAE d  SOS 8.0 POS 2.5 EOS 7.2 | retro 0.00
+{'agree_when_rule_fires': 0.9990296645411699, 'windows_detected_all_seasons': 0.4306569343065693, 'exact_match_on_those': 0.8898305084745762}

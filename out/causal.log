@@ -1,0 +1,7 @@
+LSTM_causal  seed 0  test macroF1 0.8175  delay median SOS 0 EOS 0 d  retro 0.34
+LSTM_causal  seed 1  test macroF1 0.8209  delay median SOS 0 EOS 0 d  retro 0.32
+LSTM_causal  seed 2  test macroF1 0.8190  delay median SOS 0 EOS 0 d  retro 0.35
+BiLSTM       seed 0  test macroF1 0.8718  delay median SOS 0 EOS 0 d  retro 0.27
+BiLSTM       seed 1  test macroF1 0.8642  delay median SOS 0 EOS 0 d  retro 0.26
+BiLSTM       seed 2  test macroF1 0.8614  delay median SOS 0 EOS 0 d  retro 0.31
+DONE

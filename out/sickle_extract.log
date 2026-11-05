@@ -1,0 +1,16 @@
+paddy train+val rows with harvest day: 907 | plots: 262 | seasons: {'aug-jan': 288, 'jun-oct': 201, 'sep-feb': 180, 'oct-mar': 83, 'dec-may': 56, 'may-sep': 51, 'apr-aug': 48}
+season-start convention: sowing-date minus start minus SOWING_DAY  -> zero in 0.0% of 907 rows
+zip opened: 3428250 entries (40s)
+samples with S1 scenes: 907 / 907 | scenes: 14759
+  read 0/907 samples (41s)
+  read 100/907 samples (43s)
+  read 200/907 samples (44s)
+  read 300/907 samples (45s)
+  read 400/907 samples (47s)
+  read 500/907 samples (48s)
+  read 600/907 samples (50s)
+  read 700/907 samples (51s)
+  read 800/907 samples (52s)
+  read 900/907 samples (54s)
+cached -> D:\HocTap\N4_K1\ComputerVision\FinalExam\Final_Exam\TimeSeries\midterm\out\sickle_s1_cache.json
+DONE

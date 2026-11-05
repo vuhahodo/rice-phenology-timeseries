@@ -1,0 +1,21 @@
+CNN1D             seed 0  val 0.8927  test raw 0.8927 viterbi 0.8956  retro 0.350->0.000  ep 101  108s  params 34180
+CNN1D             seed 1  val 0.8947  test raw 0.8926 viterbi 0.8956  retro 0.318->0.000  ep  81  75s  params 34180
+CNN1D             seed 2  val 0.8879  test raw 0.8867 viterbi 0.8900  retro 0.347->0.000  ep  67  50s  params 34180
+CNN1D             seed 3  val 0.8870  test raw 0.8833 viterbi 0.8838  retro 0.288->0.000  ep  44  33s  params 34180
+CNN1D             seed 4  val 0.8943  test raw 0.8883 viterbi 0.8925  retro 0.347->0.000  ep 111  84s  params 34180
+BiLSTM            seed 0  val 0.8779  test raw 0.8718 viterbi 0.8745  retro 0.274->0.000  ep 108  57s  params 35844
+BiLSTM            seed 1  val 0.8668  test raw 0.8642 viterbi 0.8662  retro 0.259->0.000  ep  64  44s  params 35844
+BiLSTM            seed 2  val 0.8689  test raw 0.8614 viterbi 0.8627  retro 0.307->0.000  ep  67  41s  params 35844
+BiLSTM            seed 3  val 0.8763  test raw 0.8708 viterbi 0.8726  retro 0.274->0.000  ep 102  56s  params 35844
+BiLSTM            seed 4  val 0.8736  test raw 0.8666 viterbi 0.8678  retro 0.266->0.000  ep  78  42s  params 35844
+Transformer_NDVI  seed 0  val 0.8811  test raw 0.8830 viterbi 0.8864  retro 0.226->0.000  ep 120  317s  params 67332
+Transformer_NDVI  seed 1  val 0.8933  test raw 0.8989 viterbi 0.8993  retro 0.208->0.000  ep 120  315s  params 67332
+Transformer_NDVI  seed 2  val 0.8693  test raw 0.8738 viterbi 0.8770  retro 0.212->0.000  ep  54  140s  params 67332
+Transformer_NDVI  seed 3  val 0.8862  test raw 0.8826 viterbi 0.8851  retro 0.204->0.000  ep  84  226s  params 67332
+Transformer_NDVI  seed 4  val 0.8574  test raw 0.8587 viterbi 0.8620  retro 0.237->0.000  ep  59  160s  params 67332
+Transformer_DOY   seed 0  val 0.8722  test raw 0.8673 viterbi 0.8690  retro 0.208->0.000  ep  81  208s  params 67460
+Transformer_DOY   seed 1  val 0.8772  test raw 0.8739 viterbi 0.8751  retro 0.168->0.000  ep  68  179s  params 67460
+Transformer_DOY   seed 2  val 0.8842  test raw 0.8705 viterbi 0.8720  retro 0.197->0.000  ep 110  292s  params 67460
+Transformer_DOY   seed 3  val 0.8722  test raw 0.8609 viterbi 0.8649  retro 0.266->0.000  ep  76  198s  params 67460
+Transformer_DOY   seed 4  val 0.8846  test raw 0.8863 viterbi 0.8882  retro 0.190->0.000  ep  71  191s  params 67460
+DONE

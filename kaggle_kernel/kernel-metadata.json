@@ -1,0 +1,16 @@
+{
+ "id": "dophucvuha/rice-vn-full-pipeline",
+ "title": "Rice VN full pipeline",
+ "code_file": "rice_vn_full_pipeline.ipynb",
+ "language": "python",
+ "kernel_type": "notebook",
+ "is_private": "true",
+ "enable_gpu": "false",
+ "enable_internet": "true",
+ "dataset_sources": [
+  "dophucvuha/rice-phenology-v3",
+  "dophucvuha/ee-service-key"
+ ],
+ "competition_sources": [],
+ "kernel_sources": []
+}

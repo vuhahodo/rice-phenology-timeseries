@@ -1,0 +1,248 @@
+[{"stream_name":"stderr","time":7.251181764,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.251230204,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.251235554,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.251239244,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.8482309279999996,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.848264068,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.848268858,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.848272308,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":10.409740532,"data":"SMOKE = False | nền tảng: Kaggle \n"}
+,{"stream_name":"stdout","time":10.409776892,"data":" {'rice_phenology_multi_v3.npz': '/kaggle/input/datasets/dophucvuha/rice-phenology-v3/rice_phenology_multi_v3.npz', 'phenology_dataset_v3.csv': '/kaggle/input/datasets/dophucvuha/rice-phenology-v3/phenology_dataset_v3.csv'}\n"}
+,{"stream_name":"stdout","time":15.848197337,"data":"thiết bị: cpu\n"}
+,{"stream_name":"stdout","time":19.761141003,"data":"Đăng nhập bằng service account: ee-extractor@verdant-cargo-437911-h6.iam.gserviceaccount.com\n"}
+,{"stream_name":"stderr","time":20.109819165,"data":"/usr/local/lib/python3.13/dist-packages/ee/deprecation.py:215: DeprecationWarning: \n"}
+,{"stream_name":"stderr","time":20.109855825,"data":"\n"}
+,{"stream_name":"stderr","time":20.109860234,"data":"Attention required for FAO/GAUL/2015/level1! You are using a deprecated asset.\n"}
+,{"stream_name":"stderr","time":20.109863625,"data":"To make sure your code keeps working, please update it.\n"}
+,{"stream_name":"stderr","time":20.109866914,"data":"This dataset has been superseded by FAO/GAUL/2025/level1\n"}
+,{"stream_name":"stderr","time":20.109870064,"data":"\n"}
+,{"stream_name":"stderr","time":20.109871954,"data":"Learn more: https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2015_level1\n"}
+,{"stream_name":"stderr","time":20.109873954,"data":"\n"}
+,{"stream_name":"stderr","time":20.109875824,"data":"  warnings.warn(warning, category=DeprecationWarning)\n"}
+,{"stream_name":"stderr","time":20.109877694,"data":"\n"}
+,{"stream_name":"stderr","time":20.109879484,"data":"/usr/local/lib/python3.13/dist-packages/ee/deprecation.py:215: DeprecationWarning: \n"}
+,{"stream_name":"stderr","time":20.109881394,"data":"\n"}
+,{"stream_name":"stderr","time":20.109883184,"data":"Attention required for FAO/GAUL/2015/level1! You are using a deprecated asset.\n"}
+,{"stream_name":"stderr","time":20.109885184,"data":"To make sure your code keeps working, please update it.\n"}
+,{"stream_name":"stderr","time":20.109887084,"data":"This dataset has been superseded by FAO/GAUL/2025/level1\n"}
+,{"stream_name":"stderr","time":20.109888964,"data":"\n"}
+,{"stream_name":"stderr","time":20.109890774,"data":"Learn more: https://developers.google.com/earth-engine/datasets/catalog/FAO_GAUL_2015_level1\n"}
+,{"stream_name":"stderr","time":20.109892694,"data":"\n"}
+,{"stream_name":"stderr","time":20.109894934,"data":"  warnings.warn(warning, category=DeprecationWarning)\n"}
+,{"stream_name":"stdout","time":20.456123078,"data":"['Da Nang City', 'Quang Nam']\n"}
+,{"stream_name":"stdout","time":108.860576594,"data":"Số điểm không phải lúa: 1034 {'10': 300, '20': 84, '30': 150, '40': 300, '50': 100, '80': 100}\n"}
+,{"stream_name":"stdout","time":108.860612554,"data":"Năm 2023 NDVI\n"}
+,{"stream_name":"stdout","time":148.294137944,"data":"   100/1034\n"}
+,{"stream_name":"stdout","time":174.163813099,"data":"   200/1034\n"}
+,{"stream_name":"stdout","time":208.468601601,"data":"   300/1034\n"}
+,{"stream_name":"stdout","time":234.319048344,"data":"   400/1034\n"}
+,{"stream_name":"stdout","time":259.8346626,"data":"   500/1034\n"}
+,{"stream_name":"stdout","time":284.793240712,"data":"   600/1034\n"}
+,{"stream_name":"stdout","time":314.444529227,"data":"   700/1034\n"}
+,{"stream_name":"stdout","time":339.47128915,"data":"   800/1034\n"}
+,{"stream_name":"stdout","time":370.30288915,"data":"   900/1034\n"}
+,{"stream_name":"stdout","time":393.530693323,"data":"   1000/1034\n"}
+,{"stream_name":"stdout","time":433.662549556,"data":"   1034/1034\n"}
+,{"stream_name":"stdout","time":433.662576996,"data":"Năm 2023 NDWI, VV, VH\n"}
+,{"stream_name":"stdout","time":488.792580009,"data":"   50/1034\n"}
+,{"stream_name":"stdout","time":543.283253506,"data":"   100/1034\n"}
+,{"stream_name":"stdout","time":602.655940175,"data":"   150/1034\n"}
+,{"stream_name":"stdout","time":640.645812224,"data":"   200/1034\n"}
+,{"stream_name":"stdout","time":677.192032651,"data":"   250/1034\n"}
+,{"stream_name":"stdout","time":702.5687292,"data":"   300/1034\n"}
+,{"stream_name":"stdout","time":736.887742174,"data":"   350/1034\n"}
+,{"stream_name":"stdout","time":778.416739253,"data":"   400/1034\n"}
+,{"stream_name":"stdout","time":819.030699667,"data":"   450/1034\n"}
+,{"stream_name":"stdout","time":876.614246434,"data":"   500/1034\n"}
+,{"stream_name":"stdout","time":915.88186458,"data":"   550/1034\n"}
+,{"stream_name":"stdout","time":947.461991307,"data":"   600/1034\n"}
+,{"stream_name":"stdout","time":991.515503073,"data":"   650/1034\n"}
+,{"stream_name":"stdout","time":1026.361229665,"data":"   700/1034\n"}
+,{"stream_name":"stdout","time":1090.494341855,"data":"   750/1034\n"}
+,{"stream_name":"stdout","time":1159.060373255,"data":"   800/1034\n"}
+,{"stream_name":"stdout","time":1219.239795233,"data":"   850/1034\n"}
+,{"stream_name":"stdout","time":1257.961546945,"data":"   900/1034\n"}
+,{"stream_name":"stdout","time":1344.188303512,"data":"   950/1034\n"}
+,{"stream_name":"stdout","time":1375.953323675,"data":"   1000/1034\n"}
+,{"stream_name":"stdout","time":1409.388144461,"data":"   1034/1034\n"}
+,{"stream_name":"stdout","time":1409.671168178,"data":"Năm 2024 NDVI\n"}
+,{"stream_name":"stdout","time":1444.576084475,"data":"   100/1034\n"}
+,{"stream_name":"stdout","time":1481.44478633,"data":"   200/1034\n"}
+,{"stream_name":"stdout","time":1511.068932297,"data":"   300/1034\n"}
+,{"stream_name":"stdout","time":1536.308409391,"data":"   400/1034\n"}
+,{"stream_name":"stdout","time":1558.442957988,"data":"   500/1034\n"}
+,{"stream_name":"stdout","time":1586.997001561,"data":"   600/1034\n"}
+,{"stream_name":"stdout","time":1619.098700054,"data":"   700/1034\n"}
+,{"stream_name":"stdout","time":1648.556778603,"data":"   800/1034\n"}
+,{"stream_name":"stdout","time":1690.693802141,"data":"   900/1034\n"}
+,{"stream_name":"stdout","time":1724.786985036,"data":"   1000/1034\n"}
+,{"stream_name":"stdout","time":1754.083946329,"data":"   1034/1034\n"}
+,{"stream_name":"stdout","time":1754.083988179,"data":"Năm 2024 NDWI, VV, VH\n"}
+,{"stream_name":"stdout","time":1822.102007246,"data":"   50/1034\n"}
+,{"stream_name":"stdout","time":1890.480493734,"data":"   100/1034\n"}
+,{"stream_name":"stdout","time":1969.36535452,"data":"   150/1034\n"}
+,{"stream_name":"stdout","time":2023.651364281,"data":"   200/1034\n"}
+,{"stream_name":"stdout","time":2079.167433464,"data":"   250/1034\n"}
+,{"stream_name":"stdout","time":2104.024439186,"data":"   300/1034\n"}
+,{"stream_name":"stdout","time":2160.702225478,"data":"   350/1034\n"}
+,{"stream_name":"stdout","time":2242.438336808,"data":"   400/1034\n"}
+,{"stream_name":"stdout","time":2313.438300675,"data":"   450/1034\n"}
+,{"stream_name":"stdout","time":2389.676290853,"data":"   500/1034\n"}
+,{"stream_name":"stdout","time":2416.211741247,"data":"   550/1034\n"}
+,{"stream_name":"stdout","time":2443.679873348,"data":"   600/1034\n"}
+,{"stream_name":"stdout","time":2515.700507537,"data":"   650/1034\n"}
+,{"stream_name":"stdout","time":2554.89341477,"data":"   700/1034\n"}
+,{"stream_name":"stdout","time":2630.664928134,"data":"   750/1034\n"}
+,{"stream_name":"stdout","time":2677.147749186,"data":"   800/1034\n"}
+,{"stream_name":"stdout","time":2741.033071284,"data":"   850/1034\n"}
+,{"stream_name":"stdout","time":2793.131340899,"data":"   900/1034\n"}
+,{"stream_name":"stdout","time":2930.036520757,"data":"   950/1034\n"}
+,{"stream_name":"stdout","time":2996.400321558,"data":"   1000/1034\n"}
+,{"stream_name":"stdout","time":3025.391728324,"data":"   1034/1034\n"}
+,{"stream_name":"stdout","time":3025.673915954,"data":"Năm 2025 NDVI\n"}
+,{"stream_name":"stdout","time":3063.458122122,"data":"   100/1034\n"}
+,{"stream_name":"stdout","time":3090.583833126,"data":"   200/1034\n"}
+,{"stream_name":"stdout","time":3123.124408145,"data":"   300/1034\n"}
+,{"stream_name":"stdout","time":3164.018973041,"data":"   400/1034\n"}
+,{"stream_name":"stdout","time":3192.676712936,"data":"   500/1034\n"}
+,{"stream_name":"stdout","time":3224.661686211,"data":"   600/1034\n"}
+,{"stream_name":"stdout","time":3266.264438015,"data":"   700/1034\n"}
+,{"stream_name":"stdout","time":3307.363601233,"data":"   800/1034\n"}
+,{"stream_name":"stdout","time":3350.461847591,"data":"   900/1034\n"}
+,{"stream_name":"stdout","time":3374.95142949,"data":"   1000/1034\n"}
+,{"stream_name":"stdout","time":3402.075341724,"data":"   1034/1034\n"}
+,{"stream_name":"stdout","time":3402.075368173,"data":"Năm 2025 NDWI, VV, VH\n"}
+,{"stream_name":"stdout","time":3477.966370527,"data":"   50/1034\n"}
+,{"stream_name":"stdout","time":3525.84216033,"data":"   100/1034\n"}
+,{"stream_name":"stdout","time":3624.574902713,"data":"   150/1034\n"}
+,{"stream_name":"stdout","time":3700.158790675,"data":"   200/1034\n"}
+,{"stream_name":"stdout","time":3805.792845432,"data":"   250/1034\n"}
+,{"stream_name":"stdout","time":3833.846934489,"data":"   300/1034\n"}
+,{"stream_name":"stdout","time":3877.643711138,"data":"   350/1034\n"}
+,{"stream_name":"stdout","time":3945.572428545,"data":"   400/1034\n"}
+,{"stream_name":"stdout","time":3991.708702789,"data":"   450/1034\n"}
+,{"stream_name":"stdout","time":4083.143607711,"data":"   500/1034\n"}
+,{"stream_name":"stdout","time":4131.827969637,"data":"   550/1034\n"}
+,{"stream_name":"stdout","time":4188.674251141,"data":"   600/1034\n"}
+,{"stream_name":"stdout","time":4326.338157604,"data":"   650/1034\n"}
+,{"stream_name":"stdout","time":4393.236362427,"data":"   700/1034\n"}
+,{"stream_name":"stdout","time":4473.785371993,"data":"   750/1034\n"}
+,{"stream_name":"stdout","time":4558.770820012,"data":"   800/1034\n"}
+,{"stream_name":"stdout","time":4670.157658611,"data":"   850/1034\n"}
+,{"stream_name":"stdout","time":4767.388082869,"data":"   900/1034\n"}
+,{"stream_name":"stdout","time":4852.317284128,"data":"   950/1034\n"}
+,{"stream_name":"stdout","time":4926.858575025,"data":"   1000/1034\n"}
+,{"stream_name":"stdout","time":5007.966163885,"data":"   1034/1034\n"}
+,{"stream_name":"stdout","time":5008.053792345,"data":"Đã có file thô điểm không phải lúa: True\n"}
+,{"stream_name":"stdout","time":5008.53380857,"data":"Lúa: (1828, 73, 5) | kênh: ['NDVI', 'NDWI', 'VV', 'VH', 'obs_ndvi'] | tập: {'train': 1280, 'val': 274, 'test': 274}\n"}
+,{"stream_name":"stdout","time":5009.418340013,"data":"Điểm không phải lúa: 1032 | cửa sổ: (2058, 73, 5) | theo lớp WorldCover: {40: 600, 10: 590, 30: 300, 50: 200, 80: 200, 20: 168}\n"}
+,{"stream_name":"stdout","time":5009.619377241,"data":"Rice: 1828 | không phải lúa: 2058 | nhóm ô lưới: 765\n"}
+,{"stream_name":"stdout","time":5015.118123094,"data":"Quang hoc (NDVI+NDWI)      RandomForest OA 0.959±0.010  macro-F1 0.959±0.010  F1(lúa) 0.956  | đúng theo lớp: {10: 1.0, 20: 0.9880952380952381, 30: 0.9866666666666667, 40: 0.9033333333333333, 50: 0.99, 80: 0.97}\n"}
+,{"stream_name":"stdout","time":5325.780260717,"data":"Quang hoc (NDVI+NDWI)      CNN          OA 0.993±0.004  macro-F1 0.992±0.004  F1(lúa) 0.992  | đúng theo lớp: {10: 0.9966101694915255, 20: 1.0, 30: 0.9966666666666667, 40: 0.99, 50: 0.985, 80: 0.995}\n"}
+,{"stream_name":"stdout","time":5332.443743056,"data":"SAR (VV,VH)                RandomForest OA 0.868±0.010  macro-F1 0.867±0.011  F1(lúa) 0.864  | đúng theo lớp: {10: 0.9779661016949153, 20: 0.9761904761904762, 30: 0.95, 40: 0.5183333333333333, 50: 1.0, 80: 0.975}\n"}
+,{"stream_name":"stdout","time":5639.353659994,"data":"SAR (VV,VH)                CNN          OA 0.874±0.010  macro-F1 0.874±0.010  F1(lúa) 0.870  | đúng theo lớp: {10: 0.9966101694915255, 20: 0.9880952380952381, 30: 0.9666666666666667, 40: 0.53, 50: 1.0, 80: 0.96}\n"}
+,{"stream_name":"stdout","time":5647.178176666,"data":"Tat ca (NDVI,NDWI,VV,VH)   RandomForest OA 0.955±0.008  macro-F1 0.954±0.008  F1(lúa) 0.951  | đúng theo lớp: {10: 1.0, 20: 0.9880952380952381, 30: 0.9833333333333333, 40: 0.8816666666666667, 50: 1.0, 80: 0.995}\n"}
+,{"stream_name":"stdout","time":5952.279174709,"data":"Tat ca (NDVI,NDWI,VV,VH)   CNN          OA 0.988±0.005  macro-F1 0.988±0.005  F1(lúa) 0.987  | đúng theo lớp: {10: 0.9983050847457627, 20: 1.0, 30: 1.0, 40: 0.975, 50: 0.975, 80: 0.975}\n"}
+,{"stream_name":"stdout","time":5983.446694191,"data":"NDVI            seed 0  macro-F1 thô 0.887 -\u003e Viterbi 0.889 | MAE SOS/EOS 2.6/2.9 ngày  (31s)\n"}
+,{"stream_name":"stdout","time":6042.792099909,"data":"NDVI            seed 1  macro-F1 thô 0.892 -\u003e Viterbi 0.893 | MAE SOS/EOS 2.5/2.2 ngày  (59s)\n"}
+,{"stream_name":"stdout","time":6077.996065526,"data":"NDVI            seed 2  macro-F1 thô 0.881 -\u003e Viterbi 0.882 | MAE SOS/EOS 2.8/2.5 ngày  (35s)\n"}
+,{"stream_name":"stdout","time":6110.996111136,"data":"SAR+NDWI        seed 0  macro-F1 thô 0.848 -\u003e Viterbi 0.850 | MAE SOS/EOS 5.5/4.4 ngày  (33s)\n"}
+,{"stream_name":"stdout","time":6128.046189606,"data":"SAR+NDWI        seed 1  macro-F1 thô 0.839 -\u003e Viterbi 0.841 | MAE SOS/EOS 5.1/4.4 ngày  (17s)\n"}
+,{"stream_name":"stdout","time":6161.726540395,"data":"SAR+NDWI        seed 2  macro-F1 thô 0.847 -\u003e Viterbi 0.847 | MAE SOS/EOS 4.8/4.1 ngày  (34s)\n"}
+,{"stream_name":"stdout","time":6209.954477346,"data":"NDVI+NDWI+SAR   seed 0  macro-F1 thô 0.881 -\u003e Viterbi 0.884 | MAE SOS/EOS 3.1/3.2 ngày  (48s)\n"}
+,{"stream_name":"stdout","time":6250.395497197,"data":"NDVI+NDWI+SAR   seed 1  macro-F1 thô 0.880 -\u003e Viterbi 0.884 | MAE SOS/EOS 2.9/2.9 ngày  (40s)\n"}
+,{"stream_name":"stdout","time":6284.911352685,"data":"NDVI+NDWI+SAR   seed 2  macro-F1 thô 0.881 -\u003e Viterbi 0.883 | MAE SOS/EOS 3.2/2.8 ngày  (35s)\n"}
+,{"stream_name":"stdout","time":6284.912134155,"data":"\n"}
+,{"stream_name":"stdout","time":6284.912145166,"data":"Tóm tắt bài B (macro-F1 sau Viterbi, trung bình các seed):\n"}
+,{"stream_name":"stdout","time":6284.912150546,"data":"  NDVI            0.888\n"}
+,{"stream_name":"stdout","time":6284.912154506,"data":"  SAR+NDWI        0.846\n"}
+,{"stream_name":"stdout","time":6284.912158665,"data":"  NDVI+NDWI+SAR   0.884\n"}
+,{"stream_name":"stdout","time":6284.927099735,"data":"{\n"}
+,{"stream_name":"stdout","time":6284.927126145,"data":" \"smoke\": false,\n"}
+,{"stream_name":"stdout","time":6284.927131605,"data":" \"ee_logged_in\": true,\n"}
+,{"stream_name":"stdout","time":6284.927136175,"data":" \"have_nonrice_raw\": true,\n"}
+,{"stream_name":"stdout","time":6284.927140635,"data":" \"taskA\": {\n"}
+,{"stream_name":"stdout","time":6284.927145325,"data":"  \"Quang hoc (NDVI+NDWI) | RandomForest\": {\n"}
+,{"stream_name":"stdout","time":6284.927149575,"data":"   \"folds\": {\n"}
+,{"stream_name":"stdout","time":6284.927153555,"data":"    \"oa\": [\n"}
+,{"stream_name":"stdout","time":6284.927157595,"data":"     0.9588305161569943,\n"}
+,{"stream_name":"stdout","time":6284.927161715,"data":"     0.009710597116246687\n"}
+,{"stream_name":"stdout","time":6284.927166215,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927170445,"data":"    \"macro_f1\": [\n"}
+,{"stream_name":"stdout","time":6284.927174725,"data":"     0.9585791511317945,\n"}
+,{"stream_name":"stdout","time":6284.927179375,"data":"     0.009811103741995533\n"}
+,{"stream_name":"stdout","time":6284.927183915,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927187845,"data":"    \"f1_rice\": [\n"}
+,{"stream_name":"stdout","time":6284.927191835,"data":"     0.9559280111573824,\n"}
+,{"stream_name":"stdout","time":6284.927195665,"data":"     0.010916851936072842\n"}
+,{"stream_name":"stdout","time":6284.927199575,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927203515,"data":"    \"prec_rice\": [\n"}
+,{"stream_name":"stdout","time":6284.927207455,"data":"     0.9601618889170475,\n"}
+,{"stream_name":"stdout","time":6284.927211425,"data":"     0.009980778520837856\n"}
+,{"stream_name":"stdout","time":6284.927215255,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927219105,"data":"    \"rec_rice\": [\n"}
+,{"stream_name":"stdout","time":6284.927223055,"data":"     0.9517816968733526,\n"}
+,{"stream_name":"stdout","time":6284.927227515,"data":"     0.013618009636400086\n"}
+,{"stream_name":"stdout","time":6284.927231695,"data":"    ]\n"}
+,{"stream_name":"stdout","time":6284.927236205,"data":"   },\n"}
+,{"stream_name":"stdout","time":6284.927239375,"data":"   \"correct_nonrice_by_worldcover_class\": {\n"}
+,{"stream_name":"stdout","time":6284.927242215,"data":"    \"10\": 1.0,\n"}
+,{"stream_name":"stdout","time":6284.927244925,"data":"    \"20\": 0.9880952380952381,\n"}
+,{"stream_name":"stdout","time":6284.927248375,"data":"    \"30\": 0.9866666666666667,\n"}
+,{"stream_name":"stdout","time":6284.927253245,"data":"    \"40\": 0.9033333333333333,\n"}
+,{"stream_name":"stdout","time":6284.927257935,"data":"    \"50\": 0.99,\n"}
+,{"stream_name":"stdout","time":6284.927262475,"data":"    \"80\": 0.97\n"}
+,{"stream_name":"stdout","time":6284.927267205,"data":"   }\n"}
+,{"stream_name":"stdout","time":6284.927271455,"data":"  },\n"}
+,{"stream_name":"stdout","time":6284.927275875,"data":"  \"Quang hoc (NDVI+NDWI) | CNN\": {\n"}
+,{"stream_name":"stdout","time":6284.927280385,"data":"   \"folds\": {\n"}
+,{"stream_name":"stdout","time":6284.927294695,"data":"    \"oa\": [\n"}
+,{"stream_name":"stdout","time":6284.927298355,"data":"     0.9925373776273518,\n"}
+,{"stream_name":"stdout","time":6284.927301925,"data":"     0.0038522837068646577\n"}
+,{"stream_name":"stdout","time":6284.927305495,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927308445,"data":"    \"macro_f1\": [\n"}
+,{"stream_name":"stdout","time":6284.927311595,"data":"     0.9924937285288363,\n"}
+,{"stream_name":"stdout","time":6284.927314905,"data":"     0.003857844592074549\n"}
+,{"stream_name":"stdout","time":6284.927318115,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927321325,"data":"    \"f1_rice\": [\n"}
+,{"stream_name":"stdout","time":6284.927324115,"data":"     0.9920111918884669,\n"}
+,{"stream_name":"stdout","time":6284.927327105,"data":"     0.004016179243970573\n"}
+,{"stream_name":"stdout","time":6284.927330405,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927333445,"data":"    \"prec_rice\": [\n"}
+,{"stream_name":"stdout","time":6284.927336555,"data":"     0.9929111847336574,\n"}
+,{"stream_name":"stdout","time":6284.927339685,"data":"     0.0031154024573393163\n"}
+,{"stream_name":"stdout","time":6284.927342745,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927345995,"data":"    \"rec_rice\": [\n"}
+,{"stream_name":"stdout","time":6284.927349065,"data":"     0.9911211298098219,\n"}
+,{"stream_name":"stdout","time":6284.927352585,"data":"     0.005551438336911693\n"}
+,{"stream_name":"stdout","time":6284.927356065,"data":"    ]\n"}
+,{"stream_name":"stdout","time":6284.927359365,"data":"   },\n"}
+,{"stream_name":"stdout","time":6284.927362365,"data":"   \"correct_nonrice_by_worldcover_class\": {\n"}
+,{"stream_name":"stdout","time":6284.927365865,"data":"    \"10\": 0.9966101694915255,\n"}
+,{"stream_name":"stdout","time":6284.927368955,"data":"    \"20\": 1.0,\n"}
+,{"stream_name":"stdout","time":6284.927372315,"data":"    \"30\": 0.9966666666666667,\n"}
+,{"stream_name":"stdout","time":6284.927375705,"data":"    \"40\": 0.99,\n"}
+,{"stream_name":"stdout","time":6284.927378705,"data":"    \"50\": 0.985,\n"}
+,{"stream_name":"stdout","time":6284.927381745,"data":"    \"80\": 0.995\n"}
+,{"stream_name":"stdout","time":6284.927385325,"data":"   }\n"}
+,{"stream_name":"stdout","time":6284.927388315,"data":"  },\n"}
+,{"stream_name":"stdout","time":6284.927391455,"data":"  \"SAR (VV,VH) | RandomForest\": {\n"}
+,{"stream_name":"stdout","time":6284.927394645,"data":"   \"folds\": {\n"}
+,{"stream_name":"stdout","time":6284.927397795,"data":"    \"oa\": [\n"}
+,{"stream_name":"stdout","time":6284.927401035,"data":"     0.8677326610488564,\n"}
+,{"stream_name":"stdout","time":6284.927404385,"data":"     0.010499596019199597\n"}
+,{"stream_name":"stdout","time":6284.927407585,"data":"    ],\n"}
+,{"stream_name":"stdout","time":6284.927410865,"data":"    \"macro_f1\": [\n"}
+,{"stream_name":"stdout","time":6284.927414135,"data":"     0.8674823245866164,\n"}
+,{"stream_name":"stdout","time":6284.927417375,"data":"     0.0105807191968799\n"}
+,{"stream_name":"stdout","time":6284.927420565,"data":"\n"}
+,{"stream_name":"stdout","time":6284.927423565,"data":"Kết quả nằm trong: /kaggle/working/results | file thô điểm không phải lúa: /kaggle/working/nonrice\n"}
+,{"stream_name":"stderr","time":6288.75914105,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":6288.759180551,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":6288.9289955,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":6288.929064511,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":6289.63597833,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":6289.71096824,"data":"[NbConvertApp] Writing 47663 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":6291.981185437,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6292.593628736,"data":"[NbConvertApp] Writing 470290 bytes to __results__.html\n"}
+]

@@ -1,0 +1,68 @@
+{'standard': [1280, 274, 274], 'year': [938, 208, 70]}
+standard  NDVI           seed 0  F1 0.8893  (37s)
+standard  NDVI           seed 1  F1 0.8944  (75s)
+standard  NDVI           seed 2  F1 0.8869  (75s)
+standard  SAR+NDWI       seed 0  F1 0.8497  (33s)
+standard  SAR+NDWI       seed 1  F1 0.8421  (58s)
+standard  SAR+NDWI       seed 2  F1 0.8509  (42s)
+standard  NDVI+NDWI+SAR  seed 0  F1 0.8828  (48s)
+standard  NDVI+NDWI+SAR  seed 1  F1 0.8858  (71s)
+standard  NDVI+NDWI+SAR  seed 2  F1 0.8851  (44s)
+year      NDVI           seed 0  F1 0.8880  (40s)
+year      NDVI           seed 1  F1 0.8822  (57s)
+year      NDVI           seed 2  F1 0.8833  (36s)
+year      SAR+NDWI       seed 0  F1 0.8308  (23s)
+year      SAR+NDWI       seed 1  F1 0.8279  (25s)
+year      SAR+NDWI       seed 2  F1 0.8294  (22s)
+year      NDVI+NDWI+SAR  seed 0  F1 0.8663  (43s)
+year      NDVI+NDWI+SAR  seed 1  F1 0.8659  (38s)
+year      NDVI+NDWI+SAR  seed 2  F1 0.8830  (32s)
+{
+ "standard": {
+  "NDVI": {
+   "mean": 0.8969757765221381,
+   "lo": 0.8841715810541415,
+   "hi": 0.9085617090298304
+  },
+  "SAR+NDWI": {
+   "mean": 0.8496836048946744,
+   "lo": 0.8369076789984629,
+   "hi": 0.8637863128469241
+  },
+  "NDVI+NDWI+SAR": {
+   "mean": 0.88678813155827,
+   "lo": 0.8740814375727699,
+   "hi": 0.8995792410895754
+  },
+  "diff_NDVI_minus_SARNDWI": {
+   "mean": 0.047292171627463575,
+   "lo": 0.03803952579914008,
+   "hi": 0.05716592403696772
+  },
+  "n_test": 274
+ },
+ "year": {
+  "NDVI": {
+   "mean": 0.8936532319847085,
+   "lo": 0.866541268073044,
+   "hi": 0.9177682860909924
+  },
+  "SAR+NDWI": {
+   "mean": 0.8328574077109827,
+   "lo": 0.8038549808479222,
+   "hi": 0.8603881486654777
+  },
+  "NDVI+NDWI+SAR": {
+   "mean": 0.8808954917926136,
+   "lo": 0.8533423847419682,
+   "hi": 0.9054782009817878
+  },
+  "diff_NDVI_minus_SARNDWI": {
+   "mean": 0.06079582427372578,
+   "lo": 0.04414277906583797,
+   "hi": 0.07906219537585096
+  },
+  "n_test": 70
+ }
+}
+DONE

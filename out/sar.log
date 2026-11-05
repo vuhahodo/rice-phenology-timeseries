@@ -1,0 +1,25 @@
+channels ['NDVI', 'NDWI', 'VV', 'VH', 'obs_ndvi'] | max |NDVI_npz - NDVI_csv| = 5.96e-08 | labels identical: True
+  NDWI  mean -0.400 std 0.242  NaN 0
+  VV    mean -10.792 std 2.557  NaN 0
+  VH    mean -18.334 std 2.755  NaN 0
+NDVI+DOY (control)       seed 0  val 0.8908  test raw 0.8852 viterbi 0.8893  MAE SOS/EOS 2.4/3.0  ep 42  55s
+NDVI+DOY (control)       seed 1  val 0.8953  test raw 0.8921 viterbi 0.8944  MAE SOS/EOS 2.5/2.3  ep 63  59s
+NDVI+DOY (control)       seed 2  val 0.8902  test raw 0.8829 viterbi 0.8869  MAE SOS/EOS 2.7/2.4  ep 40  29s
+NDVI+DOY (control)       seed 3  val 0.8913  test raw 0.8870 viterbi 0.8895  MAE SOS/EOS 2.6/2.6  ep 50  30s
+NDVI+DOY (control)       seed 4  val 0.8962  test raw 0.8947 viterbi 0.8993  MAE SOS/EOS 2.3/2.4  ep 76  73s
+SAR (VV,VH,VH-VV)+DOY    seed 0  val 0.7015  test raw 0.7091 viterbi 0.7103  MAE SOS/EOS 11.4/10.1  ep 44  35s
+SAR (VV,VH,VH-VV)+DOY    seed 1  val 0.7034  test raw 0.7102 viterbi 0.7112  MAE SOS/EOS 11.7/9.3  ep 46  31s
+SAR (VV,VH,VH-VV)+DOY    seed 2  val 0.7045  test raw 0.7104 viterbi 0.7118  MAE SOS/EOS 10.8/9.2  ep 44  28s
+SAR (VV,VH,VH-VV)+DOY    seed 3  val 0.7028  test raw 0.7117 viterbi 0.7131  MAE SOS/EOS 11.1/9.2  ep 51  34s
+SAR (VV,VH,VH-VV)+DOY    seed 4  val 0.7054  test raw 0.7090 viterbi 0.7086  MAE SOS/EOS 11.2/9.3  ep 60  37s
+SAR+NDWI+DOY             seed 0  val 0.8535  test raw 0.8470 viterbi 0.8497  MAE SOS/EOS 4.8/4.1  ep 37  24s
+SAR+NDWI+DOY             seed 1  val 0.8493  test raw 0.8407 viterbi 0.8421  MAE SOS/EOS 5.2/3.9  ep 40  32s
+SAR+NDWI+DOY             seed 2  val 0.8515  test raw 0.8474 viterbi 0.8509  MAE SOS/EOS 4.8/4.5  ep 59  50s
+SAR+NDWI+DOY             seed 3  val 0.8512  test raw 0.8474 viterbi 0.8500  MAE SOS/EOS 4.6/5.0  ep 48  30s
+SAR+NDWI+DOY             seed 4  val 0.8518  test raw 0.8508 viterbi 0.8568  MAE SOS/EOS 5.2/4.1  ep 62  39s
+NDVI+NDWI+SAR+DOY        seed 0  val 0.8848  test raw 0.8786 viterbi 0.8828  MAE SOS/EOS 3.3/3.0  ep 56  36s
+NDVI+NDWI+SAR+DOY        seed 1  val 0.8851  test raw 0.8824 viterbi 0.8858  MAE SOS/EOS 3.7/2.6  ep 95  87s
+NDVI+NDWI+SAR+DOY        seed 2  val 0.8867  test raw 0.8797 viterbi 0.8851  MAE SOS/EOS 3.2/2.7  ep 62  49s
+NDVI+NDWI+SAR+DOY        seed 3  val 0.8852  test raw 0.8815 viterbi 0.8860  MAE SOS/EOS 3.4/2.6  ep 60  49s
+NDVI+NDWI+SAR+DOY        seed 4  val 0.8834  test raw 0.8808 viterbi 0.8822  MAE SOS/EOS 3.1/2.9  ep 59  51s
+DONE
